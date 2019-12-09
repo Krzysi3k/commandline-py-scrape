@@ -1,6 +1,6 @@
 # commandline-py-scrape
 
-webscrape justjoin.it from commandline like a pro
+webscrape justjoin.it from commandline like a pro  
 following packages needs to be installed in order to webscrape and render javascript pages:
 
 * beautifulsoup4: 4.7.1 or newer
